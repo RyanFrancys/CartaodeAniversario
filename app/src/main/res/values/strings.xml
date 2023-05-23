@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cartão de Aniversário</string>
+    <string name="parabens_texto">Parabens Pessoa!</string>
+    <string name="assinatura_texto">-F. Ryan</string>
+</resources>
